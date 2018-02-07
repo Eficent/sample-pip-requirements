@@ -1,3 +1,2 @@
-https://github.com/Eficent/social/tree/11.0-mass_mailing_exclusion
 -e git+https://github.com/Eficent/social.git@11.0-mass_mailing_exclusion#egg=odoo11_addon_mass_mailing_exclusion&subdirectory=setup/mass_mailing_exclusion
 
